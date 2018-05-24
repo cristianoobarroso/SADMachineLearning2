@@ -1,0 +1,20 @@
+Realize os passos da aula passada e diga:
+1-Acurácia Train entire model: KNN(1), KNN(5) e LogReg
+
+KNN(5) - 0.947275922671
+KNN(1) - 1.0
+LogReg - 0.959578207381
+
+2-Acurácia Train/Test Split : KNN(1), KNN(5) e LogReg
+
+LogReg - 0.907894736842
+KNN(5) - 0.907894736842
+KNN(1) - 0.90350877193
+
+3-Gráfico de Tunning KNN(1-25)
+
+VIDE GRAFICO NO CODIGO
+
+4-Qual o melhor modelo com a melhor acurácia?
+
+O Melhor KNN entre 7 à 9, com a acurácia de 91,6%
